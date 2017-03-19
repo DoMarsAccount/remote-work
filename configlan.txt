@@ -1,0 +1,10 @@
+Host serverext
+Hostname 2601:2c1:4100:c080:ad6:dfb8:9e0d:1303
+User domar
+Port 22
+
+Host serverint
+Hostname 192.168.0.22
+User domar
+Port 22
+

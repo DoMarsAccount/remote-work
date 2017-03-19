@@ -1,0 +1,10 @@
+Host serverext
+Hostname 73.6.194.70
+User domar
+Port 22
+
+Host serverint
+Hostname 192.168.0.22
+User domar
+Port 22
+
